@@ -508,5 +508,35 @@
     "text": "Tofu Stir-Fry with Broccoli and Brown Rice is a colorful plant-based dish where tofu cubes are lightly sautéed with crisp broccoli and soy sauce, served over nutty brown rice.",
     "region": "China",
     "type": "Dinner"
+  },
+  {
+    "id": "86",
+    "text": "Paella is a Spanish rice dish cooked in a wide, shallow pan, where rice is simmered with saffron, seafood, chicken, and vegetables, creating a fragrant and savory flavor.",
+    "region": "Spain",
+    "type": "Main Course"
+  },
+  {
+    "id": "87",
+    "text": "Ratatouille is a French vegetable stew made by slow-cooking eggplant, zucchini, bell peppers, and tomatoes with herbs, resulting in a rich, rustic flavor and tender texture.",
+    "region": "France",
+    "type": "Main Course"
+  },
+  {
+    "id": "88",
+    "text": "Tagine is a Moroccan stew slow-cooked in a clay pot, combining meats or vegetables with dried fruits and spices, resulting in tender textures and rich, aromatic flavors.",
+    "region": "Morocco",
+    "type": "Dinner"
+  },
+  {
+    "id": "89",
+    "text": "Bibimbap is a Korean dish made by layering steamed rice with sautéed vegetables, marinated beef, and a fried egg, then mixed with spicy gochujang sauce for a vibrant taste.",
+    "region": "South Korea",
+    "type": "Main Course"
+  },
+  {
+    "id": "90",
+    "text": "Falafel is a Middle Eastern dish where ground chickpeas are seasoned with herbs and spices, shaped into balls, and deep-fried, resulting in a crispy exterior and soft, flavorful interior.",
+    "region": "Middle East",
+    "type": "Appetizer"
   }
 ]
