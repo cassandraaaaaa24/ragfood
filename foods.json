@@ -106,8 +106,8 @@
     "text": "Lassi is a cold yogurt drink blended with sugar, salt, or fruits like mango.",
     "region": "Punjab",
     "type": "Drink"
-  }, 
-   {
+  },
+  {
     "id": "19",
     "text": "Momo is a type of South Asian dumpling popular in Nepal, filled with meat or vegetables and served with spicy chutney.",
     "region": "Nepal",
@@ -190,8 +190,8 @@
     "text": "Halo-halo is a Filipino dessert made from crushed ice, evaporated milk, and mixed ingredients like sweet beans, fruits, and jellies.",
     "region": "Philippines",
     "type": "Dessert"
-  }, 
-    {
+  },
+  {
     "id": "33",
     "text": "Peking duck is a famous Beijing dish featuring crispy roasted duck served with pancakes, hoisin sauce, and scallions.",
     "region": "China",
@@ -238,215 +238,275 @@
     "text": "Mooncake is a traditional Chinese pastry filled with lotus seed paste or red bean, eaten during the Mid-Autumn Festival.",
     "region": "China",
     "type": "Dessert"
-  }, 
+  },
   {
-  "id": "41",
-  "text": "Kimchi is a traditional Korean side dish made from fermented vegetables, usually cabbage and radish, with chili pepper and garlic.",
-  "region": "Korea",
-  "type": "Side Dish"
-},
-{
-  "id": "42",
-  "text": "Bibimbap is a Korean mixed rice dish topped with sautéed vegetables, sliced meat, a fried egg, and chili paste.",
-  "region": "Korea",
-  "type": "Main Course"
-},
-{
-  "id": "43",
-  "text": "Tteokbokki is a popular Korean street food made of chewy rice cakes in a spicy red sauce.",
-  "region": "Korea",
-  "type": "Snack"
-}, 
-{
-  "id": "44",
-  "text": "Beef noodle soup is a beloved Taiwanese dish made with braised beef, vegetables, and noodles in a flavorful broth.",
-  "region": "Taiwan",
-  "type": "Soup"
-},
-{
-  "id": "45",
-  "text": "Lu rou fan is a classic Taiwanese comfort food of minced pork belly cooked in soy sauce, served over rice.",
-  "region": "Taiwan",
-  "type": "Main Course"
-},
-{
-  "id": "46",
-  "text": "Bubble tea is a Taiwanese drink made with tea, milk, and chewy tapioca pearls.",
-  "region": "Taiwan",
-  "type": "Drink"
-}, 
-{
-  "id": "47",
-  "text": "Char siu is a Cantonese-style barbecued pork known for its sweet and savory glaze.",
-  "region": "Hong Kong",
-  "type": "Main Course"
-},
-{
-  "id": "48",
-  "text": "Egg tarts are a popular Hong Kong dessert consisting of a flaky pastry crust filled with egg custard.",
-  "region": "Hong Kong",
-  "type": "Dessert"
-},
-{
-  "id": "49",
-  "text": "Wonton noodles are a Hong Kong dish made with thin egg noodles and wontons in a clear broth.",
-  "region": "Hong Kong",
-  "type": "Noodle"
-}, 
-{
-  "id": "50",
-  "text": "Meat pie is an iconic Australian dish consisting of a flaky pastry filled with minced meat and gravy.",
-  "region": "Australia",
-  "type": "Snack"
-},
-{
-  "id": "51",
-  "text": "Lamingtons are sponge cakes coated in chocolate and rolled in coconut, a popular Australian dessert.",
-  "region": "Australia",
-  "type": "Dessert"
-} ,
-{
-  "id": "52",
-  "text": "Pavlova is a meringue-based dessert topped with fresh fruit and cream, considered a national dish of New Zealand.",
-  "region": "New Zealand",
-  "type": "Dessert"
-},
-{
-  "id": "53",
-  "text": "Hangi is a traditional Māori method of cooking meat and vegetables in an underground oven.",
-  "region": "New Zealand",
-  "type": "Main Course"
-},
-{
-  "id": "54",
-  "text": "Palusami is a Polynesian dish of taro leaves filled with coconut cream and sometimes meat, baked in banana leaves.",
-  "region": "Samoa, South Pacific",
-  "type": "Main Course"
-},
-{
-  "id": "55",
-  "text": "Oka is a Samoan raw fish salad marinated in citrus and coconut milk, similar to ceviche.",
-  "region": "Samoa, South Pacific",
-  "type": "Appetizer"
-},
-{
-  "id": "56",
-  "text": "Lovo is a Fijian feast where food is wrapped in banana leaves and cooked in an earth oven.",
-  "region": "Fiji, South Pacific",
-  "type": "Main Course"
-}
-,
-{
-  "id": "57",
-  "text": "Kokoda is a Fijian dish of raw fish marinated in lime juice and coconut milk, similar to ceviche.",
-  "region": "Fiji, South Pacific",
-  "type": "Appetizer"
-},
-{
-  "id": "58",
-  "text": "Poke is a Hawaiian dish of diced raw fish, typically seasoned with soy sauce and sesame oil.",
-  "region": "Hawaii, USA",
-  "type": "Appetizer"
-},
-{
-  "id": "59",
-  "text": "Spam musubi is a Hawaiian snack made of rice and Spam wrapped in seaweed.",
-  "region": "Hawaii, USA",
-  "type": "Snack"
-},
-{  "id": "60",
-  "text": "Loco moco is a Hawaiian dish consisting of rice topped with a hamburger patty, fried egg, and brown gravy.",
-  "region": "Hawaii, USA",
-  "type": "Main Course"
-},
-{
-  "id": "61",
-  "text": "Sushi is a Japanese dish of vinegared rice combined with seafood, vegetables, and sometimes tropical fruits.",
-  "region": "Japan",
-  "type": "Main Course"
-},
-{
-  "id": "62",
-  "text": "Ramen is a Japanese noodle soup dish with Chinese-style wheat noodles served in a meat or fish-based broth.",
-  "region": "Japan",
-  "type": "Main Course"
-},
-{
-  "id": "63",
-  "text": "Tempura is a Japanese dish of seafood or vegetables that have been battered and deep-fried.",
-  "region": "Japan",
-  "type": "Main Course"
-},
-{
-  "id": "64",
-  "text": "Miso soup is a traditional Japanese soup consisting of a stock called dashi into which softened miso paste is mixed.",
-  "region": "Japan",
-  "type": "Soup"
-},
-{
-  "id": "65",
-  "text": "Okonomiyaki is a savory Japanese pancake containing a variety of ingredients.",
-  "region": "Japan",
-  "type": "Main Course"
-},
-{
-  "id": "66",
-  "text": "Hummus is a Middle Eastern dip or spread made from cooked, mashed chickpeas blended with tahini, olive oil, lemon juice, and garlic.",
-  "region": "Middle East",
-  "type": "Appetizer"
-},
-{
-  "id": "67",
-  "text": "Falafel consists of deep-fried balls of ground chickpeas or fava beans, typically served in pita bread.",
-  "region": "Middle East",
-  "type": "Main Course"
-},
-{
-  "id": "68",
-  "text": "Shawarma is a Middle Eastern meat preparation where thin slices of lamb, chicken, or beef are stacked and roasted on a vertical rotisserie.",
-  "region": "Middle East",
-  "type": "Main Course"
-},
-{
-  "id": "69",
-  "text": "Tabbouleh is a Levantine vegetarian salad made of finely chopped parsley, tomatoes, mint, and bulgur.",
-  "region": "Middle East",
-  "type": "Salad"
-},
-{
-  "id": "70",
-  "text": "Baklava is a rich, sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey.",
-  "region": "Middle East",
-  "type": "Dessert"
-},
-{
-  "id": "71",
-  "text": "Buuz are Mongolian steamed dumplings filled with minced meat, typically mutton or beef.",
-  "region": "Mongolia",
-  "type": "Main Course"
-},
-{
-  "id": "72",
-  "text": "Khorkhog is a Mongolian barbecue dish where meat is cooked with hot stones inside a sealed container.",
-  "region": "Mongolia",
-  "type": "Main Course"
-},
-{
-  "id": "73",
-  "text": "Airag is a traditional Mongolian alcoholic drink made from fermented mare's milk.",
-  "region": "Mongolia",
-  "type": "Beverage"
-},
-{
-  "id": "74",
-  "text": "Boortsog are Mongolian deep-fried cookies often served with tea or used as a dessert.",
-  "region": "Mongolia",
-  "type": "Dessert"
-},
-{
-  "id": "75",
-  "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
-  "region": "Mongolia",
-  "type": "Beverage"
-}
+    "id": "41",
+    "text": "Kimchi is a traditional Korean side dish made from fermented vegetables, usually cabbage and radish, with chili pepper and garlic.",
+    "region": "Korea",
+    "type": "Side Dish"
+  },
+  {
+    "id": "42",
+    "text": "Bibimbap is a Korean mixed rice dish topped with sautéed vegetables, sliced meat, a fried egg, and chili paste.",
+    "region": "Korea",
+    "type": "Main Course"
+  },
+  {
+    "id": "43",
+    "text": "Tteokbokki is a popular Korean street food made of chewy rice cakes in a spicy red sauce.",
+    "region": "Korea",
+    "type": "Snack"
+  },
+  {
+    "id": "44",
+    "text": "Beef noodle soup is a beloved Taiwanese dish made with braised beef, vegetables, and noodles in a flavorful broth.",
+    "region": "Taiwan",
+    "type": "Soup"
+  },
+  {
+    "id": "45",
+    "text": "Lu rou fan is a classic Taiwanese comfort food of minced pork belly cooked in soy sauce, served over rice.",
+    "region": "Taiwan",
+    "type": "Main Course"
+  },
+  {
+    "id": "46",
+    "text": "Bubble tea is a Taiwanese drink made with tea, milk, and chewy tapioca pearls.",
+    "region": "Taiwan",
+    "type": "Drink"
+  },
+  {
+    "id": "47",
+    "text": "Char siu is a Cantonese-style barbecued pork known for its sweet and savory glaze.",
+    "region": "Hong Kong",
+    "type": "Main Course"
+  },
+  {
+    "id": "48",
+    "text": "Egg tarts are a popular Hong Kong dessert consisting of a flaky pastry crust filled with egg custard.",
+    "region": "Hong Kong",
+    "type": "Dessert"
+  },
+  {
+    "id": "49",
+    "text": "Wonton noodles are a Hong Kong dish made with thin egg noodles and wontons in a clear broth.",
+    "region": "Hong Kong",
+    "type": "Noodle"
+  },
+  {
+    "id": "50",
+    "text": "Meat pie is an iconic Australian dish consisting of a flaky pastry filled with minced meat and gravy.",
+    "region": "Australia",
+    "type": "Snack"
+  },
+  {
+    "id": "51",
+    "text": "Lamingtons are sponge cakes coated in chocolate and rolled in coconut, a popular Australian dessert.",
+    "region": "Australia",
+    "type": "Dessert"
+  },
+  {
+    "id": "52",
+    "text": "Pavlova is a meringue-based dessert topped with fresh fruit and cream, considered a national dish of New Zealand.",
+    "region": "New Zealand",
+    "type": "Dessert"
+  },
+  {
+    "id": "53",
+    "text": "Hangi is a traditional Māori method of cooking meat and vegetables in an underground oven.",
+    "region": "New Zealand",
+    "type": "Main Course"
+  },
+  {
+    "id": "54",
+    "text": "Palusami is a Polynesian dish of taro leaves filled with coconut cream and sometimes meat, baked in banana leaves.",
+    "region": "Samoa, South Pacific",
+    "type": "Main Course"
+  },
+  {
+    "id": "55",
+    "text": "Oka is a Samoan raw fish salad marinated in citrus and coconut milk, similar to ceviche.",
+    "region": "Samoa, South Pacific",
+    "type": "Appetizer"
+  },
+  {
+    "id": "56",
+    "text": "Lovo is a Fijian feast where food is wrapped in banana leaves and cooked in an earth oven.",
+    "region": "Fiji, South Pacific",
+    "type": "Main Course"
+  },
+  {
+    "id": "57",
+    "text": "Kokoda is a Fijian dish of raw fish marinated in lime juice and coconut milk, similar to ceviche.",
+    "region": "Fiji, South Pacific",
+    "type": "Appetizer"
+  },
+  {
+    "id": "58",
+    "text": "Poke is a Hawaiian dish of diced raw fish, typically seasoned with soy sauce and sesame oil.",
+    "region": "Hawaii, USA",
+    "type": "Appetizer"
+  },
+  {
+    "id": "59",
+    "text": "Spam musubi is a Hawaiian snack made of rice and Spam wrapped in seaweed.",
+    "region": "Hawaii, USA",
+    "type": "Snack"
+  },
+  {
+    "id": "60",
+    "text": "Loco moco is a Hawaiian dish consisting of rice topped with a hamburger patty, fried egg, and brown gravy.",
+    "region": "Hawaii, USA",
+    "type": "Main Course"
+  },
+  {
+    "id": "61",
+    "text": "Sushi is a Japanese dish of vinegared rice combined with seafood, vegetables, and sometimes tropical fruits.",
+    "region": "Japan",
+    "type": "Main Course"
+  },
+  {
+    "id": "62",
+    "text": "Ramen is a Japanese noodle soup dish with Chinese-style wheat noodles served in a meat or fish-based broth.",
+    "region": "Japan",
+    "type": "Main Course"
+  },
+  {
+    "id": "63",
+    "text": "Tempura is a Japanese dish of seafood or vegetables that have been battered and deep-fried.",
+    "region": "Japan",
+    "type": "Main Course"
+  },
+  {
+    "id": "64",
+    "text": "Miso soup is a traditional Japanese soup consisting of a stock called dashi into which softened miso paste is mixed.",
+    "region": "Japan",
+    "type": "Soup"
+  },
+  {
+    "id": "65",
+    "text": "Okonomiyaki is a savory Japanese pancake containing a variety of ingredients.",
+    "region": "Japan",
+    "type": "Main Course"
+  },
+  {
+    "id": "66",
+    "text": "Hummus is a Middle Eastern dip or spread made from cooked, mashed chickpeas blended with tahini, olive oil, lemon juice, and garlic.",
+    "region": "Middle East",
+    "type": "Appetizer"
+  },
+  {
+    "id": "67",
+    "text": "Falafel consists of deep-fried balls of ground chickpeas or fava beans, typically served in pita bread.",
+    "region": "Middle East",
+    "type": "Main Course"
+  },
+  {
+    "id": "68",
+    "text": "Shawarma is a Middle Eastern meat preparation where thin slices of lamb, chicken, or beef are stacked and roasted on a vertical rotisserie.",
+    "region": "Middle East",
+    "type": "Main Course"
+  },
+  {
+    "id": "69",
+    "text": "Tabbouleh is a Levantine vegetarian salad made of finely chopped parsley, tomatoes, mint, and bulgur.",
+    "region": "Middle East",
+    "type": "Salad"
+  },
+  {
+    "id": "70",
+    "text": "Baklava is a rich, sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey.",
+    "region": "Middle East",
+    "type": "Dessert"
+  },
+  {
+    "id": "71",
+    "text": "Buuz are Mongolian steamed dumplings filled with minced meat, typically mutton or beef.",
+    "region": "Mongolia",
+    "type": "Main Course"
+  },
+  {
+    "id": "72",
+    "text": "Khorkhog is a Mongolian barbecue dish where meat is cooked with hot stones inside a sealed container.",
+    "region": "Mongolia",
+    "type": "Main Course"
+  },
+  {
+    "id": "73",
+    "text": "Airag is a traditional Mongolian alcoholic drink made from fermented mare's milk.",
+    "region": "Mongolia",
+    "type": "Beverage"
+  },
+  {
+    "id": "74",
+    "text": "Boortsog are Mongolian deep-fried cookies often served with tea or used as a dessert.",
+    "region": "Mongolia",
+    "type": "Dessert"
+  },
+  {
+    "id": "75",
+    "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
+    "region": "Mongolia",
+    "type": "Beverage"
+  },
+  {
+    "id": "76",
+    "text": "Kare-kare is a Filipino stew made with oxtail, tripes, and vegetables in a peanut sauce.",
+    "region": "Philippines",
+    "type": "Main Course"
+  },
+  {
+    "id": "77",
+    "text": "Lechon is a whole roasted pig, a popular dish in the Philippines for special occasions.",
+    "region": "Philippines",
+    "type": "Main Course"
+  },
+  {
+    "id": "78",
+    "text": "Puto is a type of steamed rice cake from the Philippines, often served as a snack or dessert.",
+    "region": "Philippines",
+    "type": "Dessert"
+  },
+  {
+    "id": "79",
+    "text": "Sinigang is a Filipino soup characterized by its sour flavor, typically made with tamarind and various meats or seafood.",
+    "region": "Philippines",
+    "type": "Soup"
+  },
+  {
+    "id": "80",
+    "text": "Bicol Express is a spicy Filipino dish made with pork, shrimp, and coconut milk, flavored with chili peppers.",
+    "region": "Philippines",
+    "type": "Main Course"
+  },
+  {
+    "id": "81",
+    "text": "Grilled Salmon is a tender, flavorful fish dish served with steamed vegetables, offering a rich source of omega-3 fatty acids and a light, smoky taste.",
+    "region": "United States",
+    "type": "Main Course"
+  },
+  {
+    "id": "82",
+    "text": "Quinoa and Chickpea Salad is a refreshing mix of fluffy quinoa, protein-packed chickpeas, and fresh herbs, delivering a nutty flavor with a hint of citrus.",
+    "region": "Middle East",
+    "type": "Main Course"
+  },
+  {
+    "id": "83",
+    "text": "Baked Chicken Breast with Sweet Potato Mash is a wholesome dish featuring lean chicken seasoned and baked until juicy, paired with creamy, slightly sweet mashed potatoes.",
+    "region": "Western Europe",
+    "type": "Dinner"
+  },
+  {
+    "id": "84",
+    "text": "Lentil and Spinach Curry is a hearty stew of lentils simmered with aromatic spices and fresh spinach, creating a savory, earthy flavor with a touch of warmth.",
+    "region": "India",
+    "type": "Main Course"
+  },
+  {
+    "id": "85",
+    "text": "Tofu Stir-Fry with Broccoli and Brown Rice is a colorful plant-based dish where tofu cubes are lightly sautéed with crisp broccoli and soy sauce, served over nutty brown rice.",
+    "region": "China",
+    "type": "Dinner"
+  }
 ]
