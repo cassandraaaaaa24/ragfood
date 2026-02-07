@@ -529,14 +529,14 @@
   },
   {
     "id": "89",
-    "text": "Bibimbap is a Korean dish made by layering steamed rice with sautéed vegetables, marinated beef, and a fried egg, then mixed with spicy gochujang sauce for a vibrant taste.",
+    "text": "Japchae is a Korean stir-fried noodle dish made with sweet potato glass noodles, assorted vegetables, and marinated beef, cooked in sesame oil and soy sauce for a savory-sweet flavor.",
     "region": "South Korea",
     "type": "Main Course"
   },
   {
     "id": "90",
-    "text": "Falafel is a Middle Eastern dish where ground chickpeas are seasoned with herbs and spices, shaped into balls, and deep-fried, resulting in a crispy exterior and soft, flavorful interior.",
+    "text": "Shakshuka is a Middle Eastern dish where eggs are poached in a spicy tomato and pepper sauce, simmered with onions and herbs, resulting in a hearty and aromatic breakfast or dinner option.",
     "region": "Middle East",
-    "type": "Appetizer"
+    "type": "Breakfast"
   }
 ]
