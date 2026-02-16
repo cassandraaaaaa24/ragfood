@@ -1,2 +1,3 @@
+# PREREQUISITE: Ollama server must be running on localhost:11434 before executing rag_run.py
 chromadb==0.4.24
 requests==2.31.0
