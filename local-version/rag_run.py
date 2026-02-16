@@ -6,7 +6,7 @@ import requests
 # Constants
 CHROMA_DIR = "chroma_db"
 COLLECTION_NAME = "foods"
-JSON_FILE = "foods.json"
+JSON_FILE = "./data/foods.json"
 EMBED_MODEL = "mxbai-embed-large"
 LLM_MODEL = "llama3.2"
 
