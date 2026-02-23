@@ -7,13 +7,16 @@
   "regions": ["iad1"],
   "env": {
     "GROQ_API_KEY": {
-      "description": "Your Groq API key for LLM access"
+      "description": "Your Groq API key for LLM access",
+      "required": true
     },
     "UPSTASH_VECTOR_REST_URL": {
-      "description": "Your Upstash Vector REST API URL"
+      "description": "Your Upstash Vector REST API URL",
+      "required": false
     },
     "UPSTASH_VECTOR_REST_TOKEN": {
-      "description": "Your Upstash Vector REST API token"
+      "description": "Your Upstash Vector REST API token",
+      "required": false
     }
   }
 }
