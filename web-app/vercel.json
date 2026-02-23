@@ -1,0 +1,19 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "GROQ_API_KEY": {
+      "description": "Your Groq API key for LLM access"
+    },
+    "UPSTASH_VECTOR_REST_URL": {
+      "description": "Your Upstash Vector REST API URL"
+    },
+    "UPSTASH_VECTOR_REST_TOKEN": {
+      "description": "Your Upstash Vector REST API token"
+    }
+  }
+}
